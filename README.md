@@ -1,5 +1,4 @@
-# MAInD_Prototyping_Spacial_Experiences_2026
-MAInD Prototyping Spacial Experiences 2026
+# MAInD Prototyping Spacial Experiences 2026
 
 # About
 
