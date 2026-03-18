@@ -1,4 +1,5 @@
-# SUPSI - MA in Interaction Design - Prototyping Spacial Experiences 2026
+# Prototyping Spacial Experiences 2026
+## SUPSI - Master of Arts in Interaction Design
 
 # About
 
