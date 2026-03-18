@@ -3,7 +3,7 @@
 
 # About
 
-**Course name**: **Prototyping Spacial Experiences 2026**
+**Course name**: Prototyping Spacial Experiences 2026
 
 **Teacher**: Leonardo Angelucci 
 
