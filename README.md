@@ -154,11 +154,11 @@ Upload using Arduino IDE or PlatformIO.
 
 ---
 
-# Resources
-
-[One Drive Link](https://drive.google.com/drive/folders/14P_7_v80qdhS_09BsH-U0207a6U55ahQ?usp=sharing)
+## 🐚 About Psyphantys
+Psyphantys is an expressive, semi‑autonomous sound creature that reveals the hidden geometries of vibration. It is both instrument and organism, responding to touch with shifting frequencies, resonant patterns, and ritualistic behavior.
 
 ---
 
-## 🐚 About Psyphantys
-Psyphantys is an expressive, semi‑autonomous sound creature that reveals the hidden geometries of vibration. It is both instrument and organism, responding to touch with shifting frequencies, resonant patterns, and ritualistic behavior.
+# Resources
+
+[One Drive Link](https://drive.google.com/drive/folders/14P_7_v80qdhS_09BsH-U0207a6U55ahQ?usp=sharing)
