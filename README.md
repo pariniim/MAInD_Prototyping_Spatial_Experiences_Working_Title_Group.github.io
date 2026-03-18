@@ -1,4 +1,4 @@
-# MAInD Prototyping Spacial Experiences 2026
+# SUPSI - MA in Interaction Design - Prototyping Spacial Experiences 2026
 
 # About
 
