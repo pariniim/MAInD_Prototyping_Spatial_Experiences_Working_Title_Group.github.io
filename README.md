@@ -5,8 +5,6 @@ MAInD Prototyping Spacial Experiences 2026
 
 **Course name**: **Prototyping Spacial Experiences 2026**
 
-**Course ID**: **ID102.01**
-
 **Teachers**: Leonardo Angelucci 
 
 **Assistants**: Luca Draisci, Alice Mioni
