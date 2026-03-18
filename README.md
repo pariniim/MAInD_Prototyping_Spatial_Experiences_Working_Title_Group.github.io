@@ -5,7 +5,7 @@
 
 **Course name**: **Prototyping Spacial Experiences 2026**
 
-**Teachers**: Leonardo Angelucci 
+**Teacher**: Leonardo Angelucci 
 
 **Assistants**: Luca Draisci, Alice Mioni
 
