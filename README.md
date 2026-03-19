@@ -161,4 +161,4 @@ Psyphantys is an expressive, semi‑autonomous sound creature that reveals the h
 
 # Resources
 
-[One Drive Link](https://drive.google.com/drive/folders/14P_7_v80qdhS_09BsH-U0207a6U55ahQ?usp=sharing)
+[One Drive Link](https://supsi.sharepoint.com/:f:/s/DACDMAIND/IgDVbXIJMsNeSaDfCntGVZ6lAUGRVYqBoU0nvrZq0RmQVJk?e=QKQL7k)
